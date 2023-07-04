@@ -60,7 +60,6 @@
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/l1h2)
 [![PowerBI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi)](https://github.com/l1h2)
 [![PowerAutomate](https://img.shields.io/badge/powerautomate-black?style=for-the-badge&logo=powerautomate&logoColor=blue)](https://github.com/l1h2)
-[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/l1h2)
 
 <!--
 - 🔭 I’m currently working on ...
