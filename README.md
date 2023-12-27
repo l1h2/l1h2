@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Luke.<br>
-        Passionate about all things AI and currently getting into mobile development.<br>
+        Passionate about all things AI and developing new ideas.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/lucashuguenin">
@@ -31,6 +31,7 @@
 
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/l1h2)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/l1h2)
+[![ScikitLearn](https://img.shields.io/badge/scikit%20learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/l1h2)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/l1h2)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/l1h2)
 [![TensorFlow](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow)](https://github.com/l1h2)
@@ -39,13 +40,16 @@
 ### Technologies & Frameworks
 
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/l1h2)
+[![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://github.com/l1h2)
 [![.net](https://img.shields.io/badge/.net-black?style=for-the-badge&logo=.net)](https://github.com/l1h2)
 [![Node.js](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/l1h2)
+[![Express.js](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/l1h2)
 [![MongoDB](https://img.shields.io/badge/mongo%20db-black?style=for-the-badge&logo=mongodb)](https://github.com/l1h2)
 [![PyGame](https://img.shields.io/badge/pygame-black?style=for-the-badge&logo=python&logoColor=green)](https://github.com/l1h2)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/l1h2)
 [![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)](https://github.com/l1h2)
 [![ReactNative](https://img.shields.io/badge/react%20native-black?style=for-the-badge&logo=react)](https://github.com/l1h2)
+[![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter&logoColor=70c6f8)](https://github.com/l1h2)
 [![Redux](https://img.shields.io/badge/redux-black?style=for-the-badge&logo=redux&logoColor=764abc)](https://github.com/l1h2)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/l1h2)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/l1h2)
@@ -56,6 +60,8 @@
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/l1h2)
 [![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/l1h2)
 [![IOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/l1h2)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/l1h2)
+[![Jupyter](https://img.shields.io/badge/jupyter-black?style=for-the-badge&logo=jupyter)](https://github.com/l1h2)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/l1h2)
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/l1h2)
 [![PowerBI](https://img.shields.io/badge/powerbi-black?style=for-the-badge&logo=powerbi)](https://github.com/l1h2)
